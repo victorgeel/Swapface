@@ -1,6 +1,7 @@
 dlib==19.21.1
-numpy==1.19.3
-opencv-python-headless==4.2.0.32
+numpy==1.24.3
+opencv-python==4.8.0.74
+opencv-python-headless==4.8.1.78
 Flask==1.1.1
-Pillow==8.0.1
+Pillow==10.0.0
 gunicorn
